@@ -36,6 +36,13 @@ My first requirement is to create a series of scatter plots to showcase the foll
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
+![Lat vs Cloudiness](https://user-images.githubusercontent.com/66078772/101796017-24ccaf00-3ace-11eb-9849-7b294f5d5c8f.png)
+![Lat vs Humidity](https://user-images.githubusercontent.com/66078772/101796019-24ccaf00-3ace-11eb-8ebc-ae5a8cb9428e.png)
+![Lat vs Temp](https://user-images.githubusercontent.com/66078772/101796020-25654580-3ace-11eb-922f-bcec38b7367e.png)
+![Lat vs Wind Speed](https://user-images.githubusercontent.com/66078772/101796022-25654580-3ace-11eb-9c4b-644c870cdf2d.png)
+
+
+
 After each plot add a sentence or too explaining what the code is and analyzing.
 MY second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -47,6 +54,15 @@ MY second requirement is to run linear regression on each relationship, only thi
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+![Northern Hemispher Lat vs Humidity](https://user-images.githubusercontent.com/66078772/101796023-25654580-3ace-11eb-845c-3382b2462d2e.png)
+![Northern Hemisphere Lat vs Cloudiness](https://user-images.githubusercontent.com/66078772/101796025-25654580-3ace-11eb-8ab5-1791d9e86409.png)
+![Northern Hemisphere Lat vs Temp](https://user-images.githubusercontent.com/66078772/101796028-25fddc00-3ace-11eb-8a03-9045c7e4cc6c.png)
+![Northern Hemisphere Lat vs Wind Speed](https://user-images.githubusercontent.com/66078772/101796029-25fddc00-3ace-11eb-8bef-cdfeb35d813d.png)
+![Southern Hemisphere Lat vs Cloudiness](https://user-images.githubusercontent.com/66078772/101796030-25fddc00-3ace-11eb-9a48-1203676a9f51.png)
+![Southern Hemisphere Lat vs Humidity](https://user-images.githubusercontent.com/66078772/101796031-25fddc00-3ace-11eb-8508-87724a47d970.png)
+![Southern Hemisphere Lat vs Temp](https://user-images.githubusercontent.com/66078772/101796032-26967280-3ace-11eb-9014-dd47fd11711d.png)
+![Southern Hemisphere Lat vs Windspeed](https://user-images.githubusercontent.com/66078772/101796033-26967280-3ace-11eb-97c9-fbec80b5f7ee.png)
 
 After each pair of plots, I explained what the linear regression is modeling such as any relationships I have noticed and any other analysis I have.
 MY final notebook will:
