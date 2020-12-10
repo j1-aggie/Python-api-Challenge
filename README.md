@@ -31,22 +31,22 @@ Part I - WeatherPy
 For part one, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 My first requirement is to create a series of scatter plots to showcase the following relationships:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 MY second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-Northern Hemisphere - Temperature (F) vs. Latitude
-Southern Hemisphere - Temperature (F) vs. Latitude
-Northern Hemisphere - Humidity (%) vs. Latitude
-Southern Hemisphere - Humidity (%) vs. Latitude
-Northern Hemisphere - Cloudiness (%) vs. Latitude
-Southern Hemisphere - Cloudiness (%) vs. Latitude
-Northern Hemisphere - Wind Speed (mph) vs. Latitude
-Southern Hemisphere - Wind Speed (mph) vs. Latitude
+* Northern Hemisphere - Temperature (F) vs. Latitude
+* Southern Hemisphere - Temperature (F) vs. Latitude
+* Northern Hemisphere - Humidity (%) vs. Latitude
+* Southern Hemisphere - Humidity (%) vs. Latitude
+* Northern Hemisphere - Cloudiness (%) vs. Latitude
+* Southern Hemisphere - Cloudiness (%) vs. Latitude
+* Northern Hemisphere - Wind Speed (mph) vs. Latitude
+* Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 After each pair of plots, I explained what the linear regression is modeling such as any relationships I have noticed and any other analysis I have.
 MY final notebook will:
