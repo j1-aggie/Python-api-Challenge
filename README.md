@@ -106,8 +106,7 @@ Plotted the hotels on top of the humidity heatmap with each pin containing the H
 Conclusions
 
 After completing the weather py analysis using the citipy module to pull in 500 random cities, the conclusions that can be drawn are that:
-  •	Temperature seems to have a clear correlation with latitude. 
-  •	As expected, the weather becomes significantly warmer as you approach the equator. On average the southern hemisphere tends to be warmer than the northern hemisphere.  
-  •	There is no strong relationship between latitude and cloudiness or wind speed. 
-  •	There is no strong relationship between latitude and humidity. However, there is a slightly larger amount of northern hemisphere cities with higher humidity than cities in the southern hemisphere.
+  * Temperature seems to have a clear correlation with latitude. 
+  * As expected, the weather becomes significantly warmer as you approach the equator. On average the southern hemisphere tends to be warmer than the northern hemisphere.  
+  * There is no strong relationship between latitude and humidity. However, there is a slightly larger amount of northern hemisphere cities with higher humidity than cities in the southern hemisphere.
 
